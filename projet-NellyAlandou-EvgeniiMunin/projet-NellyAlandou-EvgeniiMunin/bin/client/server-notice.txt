@@ -1,0 +1,9 @@
+This is an experimental version of the 2A project's server, written by Bastien Tauran.
+
+To run the server, open a terminal, go to the folder where you store Server.jar and type : 
+
+    java -jar Server.jar
+
+This command will launch a server on TCP port 6789, and create a subfolder named "data_server/". After use, type Ctrl-C in the server's terminal to stop it. 
+
+** IMPORTANT ** : do not forget to STOP THE SERVER after use, especially if you use a shared computer like in the CI labs. If you forget to do so, other users will not be able to run a server on the machine, getting instead an exception "Address already in use".
