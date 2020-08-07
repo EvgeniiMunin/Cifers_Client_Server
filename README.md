@@ -1,4 +1,4 @@
-# Cifers_Client_Server
+# Client pour le cifrage/ decifrage des messages text
 
 ## Instruction d’utilisation du client - Nelly Alandou, Evgenii Munin
 Pour effectuer la communication entre le client et le serveur suivre les commandes suivantes.
